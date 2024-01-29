@@ -217,7 +217,6 @@ void row_snake()
 
 }
 
-
 void column_snake()
 {
   #define MOVE_UP 0
